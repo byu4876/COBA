@@ -3,6 +3,8 @@
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="INFO" tvg-logo="https://id-test-11.slatic.net/p/b2334afb1b0dc7096514930ec8706ab2.jpg " group-title="INFO PELANGGAN",RCTI
 https://previews.dropbox.com/p/hls_playlist/AB0HJbFQYFnWs8qZjPkUREgA8RgZLSskl3rkAGKtGJiZR_NSA8YuPG6LmVxpPYB47z-3ASAFqg6vNFn1MEj6eSeiyF-dWIEc-ffFrbX_10pKvwUPYKO4US11a4j3m1DhlNsaKGiZDeEcPQhsvAkLf1Y_DASNS_D_evia3AZ8K6WqHvz4hPW28wIxum2QhVpb6rrqRc_FYZxadUnughv81zf0pTCJwD66951ByYWD5lJuSSxAESrzFicrr2udKLTArueCCzzHLswDcGHFsGsi-d1tFFLDv68qNMewJJ6-_Lox6WTYiM3pWe5B6udYwjVdll7F5BJq1APJ0s5VyY722BqflNedmSLog_Q4LbeiogKrudZtvcjKEgwxxA4qEuOVuJf_42vDdMPJ2JuqbbXArNFxUOrdTtC3L2AX0MwWFX7c2mFLQ9csksSZCt3U7KI-y8RYIkg8XYVlvGySmpdNLplNGlp8-Fy4qeXqhVs7oSKO1J3LrdF7G_ircjcCUiNmcG_GdU_rRD3VUtySPsrfGrvw5VDc97MTm54rxx1xFJDAr1OfH3HRe_1VmKlYjFWRd5zAi-rC9BsJ00ZrUOTr5f8hN3r1kzcGXhawnG3WvdUEaOT6ll6VFJ_Slb2SqFgaC-8M5507pOeHEBVc0YRrKXR6FoTSHxSsIwc5plr0Hm9iKJK8B8RGubkjq8nKhGN4B4untADxIR7GSjlJD_kCG5xqbRyKIAtE-ulBsG9c7TDEfRJ6QKNN77IKLrOtZDHt9SUtak7DTqFgh65nNoF3uKCfDJZQZ7WNn4gg6AlvMEFWE6yTjcUe9TwQ3jANEGIYsJFjoikHQumA5dC0_c5e5LoE1SwGaAhp7aeXx3lbCRcOFw/p.m3u8?size=1920x1080&type=video
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="TVOne.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TvOne_Logo%282012%29.svg/2560px-TvOne_Logo%282012%29.svg.png " group-title="National TV",TVONE
@@ -36,6 +38,7 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png " group-title="National TV", INDOSIAR
+http://103.167.167.5:8111/play/a00r/index.m3u8
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="National TV",moji
