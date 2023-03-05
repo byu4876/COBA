@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="INFO" tvg-logo="https://id-test-11.slatic.net/p/b2334afb1b0dc7096514930ec8706ab2.jpg " group-title="National TV ",TES
+#EXTINF:0 tvg-id="INFO" tvg-logo="https://id-test-11.slatic.net/p/b2334afb1b0dc7096514930ec8706ab2.jpg " group-title="National TV ",TES ch
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/1/video_2300kbps/D302037259968000.cmfv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
