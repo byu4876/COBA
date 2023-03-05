@@ -3,7 +3,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="INFO" tvg-logo="https://id-test-11.slatic.net/p/b2334afb1b0dc7096514930ec8706ab2.jpg " group-title="National TV ",TES ch
-https://pingback.giphy.com/v2/pingback?apikey=l0HlIwPWyBBUDAUgM
+https://www.googleapis.com/upload/storage/v1/b/kapwing-useast1/o?name=YouCut_20230304_121205831-YX58gZEcB.mp4&uploadType=resumable&predefinedAcl=private&upload_id=ADPycdsqUmyLlmMbF2r2BAzOBs0VMWhZJEn3q6eYqZ8Ct48KPWeesdpTNiKhzUsvR0s83txQQcwZ5Ly7k_vTKEedK8bHovXwSHwG
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
