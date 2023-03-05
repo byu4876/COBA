@@ -3,7 +3,6 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="INFO" tvg-logo="https://id-test-11.slatic.net/p/b2334afb1b0dc7096514930ec8706ab2.jpg " group-title="National TV ",TES ch
-https://cdn-useast1.kapwing.com/conversions/64040ad8cae937ac2c9d3745_preview.mp4?GoogleAccessId=prod-sa-videoprocessing%40kapwing-prod.iam.gserviceaccount.com&Expires=1678015329&Signature=ZMBgZTJW9PsiQl%2FFod7ISt8AFkSFtCjHLtucDsjSo%2FAks7trZoGYILU2UsswJAfSCQbpLs7SbcqPKNGz84BBQbYtYD%2FoLoGOCHYAFNmOnR3S71r47z%2BqbMAYXBatVjD9Ti5JWyM2oQHEcIZx07MG6rJldbtxWS1qmHapdYtVZBdtEKjAItVA7fsXqQJ2%2Bat5cSb1OaojZKCSnoKdK8fqwcyYhIbVVomt%2BlrpJ5ojG%2FAYxkQ0UvBvJf4Avnb0lKd37hPHeZ5sPCm1AEbsKGW5lkLKkK1XXCcPKhvBwNa4A5f7mIeUyMUmFUbE5zRXEG61Aiy7sxEN1B69DdJBooq3nA%3D%3D
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
