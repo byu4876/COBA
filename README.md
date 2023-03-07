@@ -1,6 +1,7 @@
 
 #EXTINF:1 tvg-id="TES.id" tvg-logo="https://id-test-11.slatic.net/p/b2334afb1b0dc7096514930ec8706ab2.jpg " group-title="IKLAN",TES 
-https://cdn-useast1.kapwing.com/conversions/6406b897eebee06b3cefecdc_preview.mp4?GoogleAccessId=prod-sa-videoprocessing%40kapwing-prod.iam.gserviceaccount.com&Expires=1678190877&Signature=Qnutm6QDdxBUQxmFcWC7y%2FOpk%2BHJ%2BcqG3ds2No9atrSZIFAZiz3PI3lpEc9Jh6Wt2aaiXPU8xHBkV95UzT7mHsnVk%2FeRaaCA7cnw2bd2tUDHndobVjtzW7dvfX%2Fl%2B71HHYXk7JUJ30SY3iW46GWt82VA2vo2hIqaMiR3fi5b2osRuhqgZVu%2Fk0ipVqRQiGJVbIzGeF%2FjNZqLJNYMIHeTbcdGa5YTqWIZhhY5i90PUgMkFUA2yY9WHvkjY1Fi0Wxnl%2BLIc8jgxbaj6PLqLoXipNueMaK7%2Beu5EkEJiWoRMB%2BCRjjdTuITtRxlPJbSw3N3K9ilPLm8ecL6%2BHR6SRPTmg%3D%3D
+https://im4.ezgif.com/tmp/ezgif-4-547fb43b9e.mp4
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
