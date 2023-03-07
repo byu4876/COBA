@@ -1,6 +1,6 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="TES.id" tvg-logo="https://id-test-11.slatic.net/p/b2334afb1b0dc7096514930ec8706ab2.jpg " group-title="IKLAN",TES 
+#EXTINF:0 tvg-id="TV.id" tvg-logo="https://id-test-11.slatic.net/p/b2334afb1b0dc7096514930ec8706ab2.jpg " group-title="TV",TES 
 https://im4.ezgif.com/tmp/ezgif-4-547fb43b9e.mp4
 
 
