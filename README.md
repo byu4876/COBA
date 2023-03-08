@@ -4,6 +4,11 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="TVOne.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TvOne_Logo%282012%29.svg/2560px-TvOne_Logo%282012%29.svg.png " group-title="National TV",TVONE
+https://previews.dropbox.com/p/hls_playlist/AB2KJJ2xnUJ1Pg4t3dvbkEyFJGBSQ-lv15Tz8q_KvRXfEOGBEg4oYPG_bx_r5-94z1SWWS-vzrSe5IlJgK2hT73sCRqxwQxHa5xHlGSak5dK1cSUSA5x7zEXUm8MDVRLwPqRsoDC1SkMpIk8zlUX18sZEc7NRgLqvzz-yQtCxyBjGQFur65KE9MWKXDoDzvBCD-Y4Qc_Lzi3m1Q3xiWkY0SMco8PvK7VxcJzCnMYfXyL-ryin6_SOqcJFs9H_q0ZZj3LSwVvbpGHSEoxuxgFqXrbX24jXND0JJgEzmTMXeZ96WwmkBgBkGAPhaqDaIjVG4T6y6GldAZ2RtH28hCM34C_wd8zR1RmEWGn_sLvJoMIIuiN-P05xfY1JioLdqFMxTAAtlmE3k1drnI4kCr0WN4DLIHWqjp3J1ZlOYY5ybHzVQBvhbPTr8AwDC8ofhi_XBODB9ptZo0rster3lZk1mDc_uXaZxiKajbEt88bSqNLlShl7rvCYrdGXpkIR2TZBjJho5_IMemmmMZZ_X1mvhqh/p.m3u8?bps=128000&type=audio
+
+
+
+
 https://nxanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 newanv-live-cdn.
 
