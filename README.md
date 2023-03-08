@@ -4,6 +4,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="TVOne.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TvOne_Logo%282012%29.svg/2560px-TvOne_Logo%282012%29.svg.png " group-title="National TV",TVONE
+https://ssc-1-ak.akamaized.net/out/v1/0da39f594cc34c4a9b03f0d696a86276/index_video_5_0_8248164.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 newanv-live-cdn.
 
