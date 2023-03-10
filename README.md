@@ -1,3 +1,8 @@
+group,Channels
+ext,No name,<head>
+ext,No name,<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ext,No name,<script language="javascript">
+ext,No name,</script></head></html>
 
 
 
