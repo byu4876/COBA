@@ -1,10 +1,5 @@
-group,Channels
-ext,No name,<head>
-ext,No name,<meta http-equiv="X-UA-Compatible" content="IE=edge">
-ext,No name,<script language="javascript">
-ext,No name,</script></head></html>
 
-
+< a  href = "https://www.example.com/" > https://en.wikipedia.org/wiki/URL_redirection </ a > 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
