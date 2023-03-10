@@ -4,8 +4,6 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="TVOne.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TvOne_Logo%282012%29.svg/2560px-TvOne_Logo%282012%29.svg.png " group-title="National TV",TVONE
-https://rr1---sn-npoldn7d.googlevideo.com/videoplayback?expire=1678432444&ei=XIQKZOaWCI-wvwTTm4iICw&ip=101.255.151.225&id=o-AODmBpwdiQK5yHJlgz1VvAw9Lng8ySb0STeU3zhMwmRT&itag=395&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C394%2C395%2C396%2C397%2C398&source=youtube&requiressl=yes&spc=H3gIhh4NsyQHzJR488ub4iw2FDOfm8kZU5POCgzLLICraP9MA3EWzZ4h16Rzy3o&vprv=1&mime=video%2Fmp4&ns=MzgKDiwClrpkcpTxEyJhvAQL&gir=yes&clen=20263517&dur=2830.166&lmt=1618710130083831&keepalive=yes&fexp=24007246,24483044&c=WEB_EMBEDDED_PLAYER&txp=5531432&n=KRpP-q9OG-fNEw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAJEUvIg8BAV4gCovqseZPQ720DOCyWGm8wKrjZm06ZEqAiBpM1AhgdhHHmQzsYEomXNzC48c2eJgpJFZJJpm55YoJQ%3D%3D&alr=yes&cpn=oRNTzg0b4gCzv5bB&cver=1.20230305.00.00&redirect_counter=1&cm2rm=sn-2ugxh5a5-q2ne7l&cms_redirect=yes&cmsv=e&mh=2H&mm=29&mn=sn-npoldn7d&ms=rdu&mt=1678410311&mv=m&mvi=1&pl=24&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgXG4aDXnscAU2IJTYb2RHFErir2Rd35ifHQDv-wpTeP4CIF9w3_TsLbYUMID_2OW8c1uuXitKxfJfrlyr2FipTdUk&pot=D7s4H2Uh52BMuwDNjb_0FrDjheLAif6ER8lhYRUFhag3BcudAa-VxWiKtV5qA3-Q2yN-dvseT25mt-mZBoY37nFL_gYalfWy9a0Zx9uMTb_fqRxb2oxs898AZtNediiRGB90H2c=&altitags=394
-
 
 
 https://nxanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
