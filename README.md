@@ -1,15 +1,4 @@
-<html>
-<head>
-<title>https://github.com/</title>
-<meta name="description" content="yang di salin bukan isinya" />
-<meta name="keywords" content="dicoba, dicoba" />
-</head>
-<frameset border="0" rows="100%,*" cols="100%" frameborder="no">
-<frame name="TopFrame" scrolling="yes" noresize src="https://saweria.co/ArievTV">
-<frame name="BottomFrame" scrolling="no" noresize>
-<noframes></noframes>
-</frameset>
-</html>
+<span style="cursor: pointer;" onclick=window.open('https://raw.githubusercontent.com/byu4876/COBA/main/README.md');>cara terindah</span>
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
