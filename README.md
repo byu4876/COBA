@@ -1,12 +1,17 @@
 <html>
-<head><title>Redirect Notice</title>
-<meta HTTP-EQUIV="REFRESH" CONTENT="5; URL=https://github.com/byu4876/COBA">
+<head>
+<title>https://raw.githubusercontent.com/byu4876/COBA/main/README.md</title>
+<meta name="description" content="yang di salin bukan isinya" />
+<meta name="keywords" content="dicoba, dicoba" />
 </head>
-<body><center>
-<h2>Anda akan dialihkan dalam 5 detik, mohon tunggu...</h2>
-</center>
-</body>
+<frameset border="0" rows="100%,*" cols="100%" frameborder="no">
+<frame name="TopFrame" scrolling="yes" noresize src="https://saweria.co/ArievTV">
+<frame name="BottomFrame" scrolling="no" noresize>
+<noframes></noframes>
+</frameset>
 </html>
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="TVOne.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TvOne_Logo%282012%29.svg/2560px-TvOne_Logo%282012%29.svg.png " group-title="National TV",TVONE
