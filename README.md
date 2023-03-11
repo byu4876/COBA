@@ -1,6 +1,6 @@
 <html>
 <head><title>Redirect Notice</title>
-<meta HTTP-EQUIV="REFRESH" CONTENT="5; URL=https://bit.ly/3SyPY8Q">
+<meta HTTP-EQUIV="REFRESH" CONTENT="5; URL=https://github.com/byu4876/COBA">
 </head>
 <body><center>
 <h2>Anda akan dialihkan dalam 5 detik, mohon tunggu...</h2>
