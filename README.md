@@ -1,14 +1,12 @@
 <html>
 <head><title>Redirect Notice</title>
-<meta HTTP-EQUIV="REFRESH" CONTENT="5; URL=https://raw.githubusercontent.com/byu4876/COBA/main/README.md ">
+<meta HTTP-EQUIV="REFRESH" CONTENT="5; URL=https://www.finderonly.net">
 </head>
 <body><center>
 <h2>Anda akan dialihkan dalam 5 detik, mohon tunggu...</h2>
 </center>
 </body>
 </html>
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="TVOne.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TvOne_Logo%282012%29.svg/2560px-TvOne_Logo%282012%29.svg.png " group-title="National TV",TVONE
