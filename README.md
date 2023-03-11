@@ -1,6 +1,6 @@
 <html>
 <head><title>Redirect Notice</title>
-<meta HTTP-EQUIV="REFRESH" CONTENT="5; URL=https://www.finderonly.net">
+<meta HTTP-EQUIV="REFRESH" CONTENT="5; URL=https://bit.ly/3SyPY8Q">
 </head>
 <body><center>
 <h2>Anda akan dialihkan dalam 5 detik, mohon tunggu...</h2>
