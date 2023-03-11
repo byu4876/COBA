@@ -1,5 +1,13 @@
+<html>
+<head><title>Redirect Notice</title>
+<meta HTTP-EQUIV="REFRESH" CONTENT="5; URL=https://raw.githubusercontent.com/byu4876/COBA/main/README.md ">
+</head>
+<body><center>
+<h2>Anda akan dialihkan dalam 5 detik, mohon tunggu...</h2>
+</center>
+</body>
+</html>
 
-< a  href = "https://www.example.com/" > https://en.wikipedia.org/wiki/URL_redirection </ a > 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
