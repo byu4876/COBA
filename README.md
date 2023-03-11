@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>https://raw.githubusercontent.com/byu4876/COBA/main/README.md</title>
+<title>https://github.com/</title>
 <meta name="description" content="yang di salin bukan isinya" />
 <meta name="keywords" content="dicoba, dicoba" />
 </head>
