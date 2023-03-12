@@ -1,5 +1,8 @@
 <span style="cursor: pointer;" onclick=window.open('https://raw.githubusercontent.com/byu4876/COBA/main/README.md');>cara terindah</span>
 
+#EXTINF:0 tvg-id="Shopee.Id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png " group-title="National TV", Shopee
+https://m3u8play.dev/?url=https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
